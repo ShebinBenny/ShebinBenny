@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShebinBenny
-- 👀 I’m interested in Analysis and Visualisation of Data and Prediction with data
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects and Internships
-- 📫 You can reach me at shebinbenny99@gmail.com
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning BSc Data Science at Christ University
+- 💞️ I’m looking to collaborate on Data Science/Machine Learning Projects and Internships
+- 📫 How to reach me (shebinbenny99@gmail.com)
 
 <!---
 ShebinBenny/ShebinBenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
